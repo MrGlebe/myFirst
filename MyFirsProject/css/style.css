@@ -1,9 +1,11 @@
 body {
   background-color:#ffeeff;
+  text-align: center;
+  padding-top:50px;
 }
 
 h1 {
-  color:#00ff11;
+  color:#009911;
 }
 P {
   font-size:80px;
