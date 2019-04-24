@@ -1,7 +1,12 @@
 body {
-  background-color:#ff99ff;
+  background-color:#ffeeff;
+  text-align: center;
+  padding-top:50px;
 }
 
 h1 {
-  color:#00ff00;
+  color:#009911;
+}
+P {
+  font-size:80px;
 }
